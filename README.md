@@ -12,6 +12,7 @@ as well) doing the heavy lifting while you direct and audit it.
 > teaching and are labelled as such in-app. They are not a real company. Industry figures
 > referenced in the accompanying brief come from public sources.
 
+
 ## How to run
 
 You do not need Python installed to do this task — your AI agent can run all of this for
